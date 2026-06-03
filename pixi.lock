@@ -2295,7 +2295,7 @@ packages:
 - pypi: ./submodules/drone-controllers
   name: drone-controllers
   version: 0.2.0
-  sha256: f97b3f74b3f3163b18ac4e2d4ac832ff714b92b3a7b9bbbd2144c695125ed1c5
+  sha256: 04842707efcfc96772e70bcf19652e879b79d52f6a17229e2a77c99fd280615b
   requires_dist:
   - numpy>=2.0.0
   - scipy>=1.17.0
