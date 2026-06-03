@@ -98,7 +98,6 @@ Crazyflow is a research simulator for Crazyflie-style quadrotors that runs milli
 </div>
 -->
 
-<!-- Placeholder until drone renders are available: -->
 All models come from the [drone-models](https://learnsyslab.github.io/drone-models/) library. Available configurations: `cf2x_L250`, `cf2x_P250`, `cf2x_T350`, `cf21B_500`, and any model returned by `drone_models.available_drones()`.
 
 ---
@@ -199,8 +198,6 @@ GPU throughput across `n_worlds` and `n_drones` (RTX 4090). Empty cells exceed a
   }
 }
 ```
-
-*Numbers are illustrative placeholders and will be replaced with measured benchmarks before release.*
 
 ---
 
